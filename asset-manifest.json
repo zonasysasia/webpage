@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/webpage/static/css/main.33876c41.chunk.css",
-    "main.js": "/webpage/static/js/main.d8f9f05a.chunk.js",
-    "main.js.map": "/webpage/static/js/main.d8f9f05a.chunk.js.map",
+    "main.js": "/webpage/static/js/main.e78a5818.chunk.js",
+    "main.js.map": "/webpage/static/js/main.e78a5818.chunk.js.map",
     "runtime-main.js": "/webpage/static/js/runtime-main.8059e8cb.js",
     "runtime-main.js.map": "/webpage/static/js/runtime-main.8059e8cb.js.map",
     "static/js/2.1eda0dc1.chunk.js": "/webpage/static/js/2.1eda0dc1.chunk.js",
@@ -12,12 +12,13 @@
     "index.html": "/webpage/index.html",
     "static/css/main.33876c41.chunk.css.map": "/webpage/static/css/main.33876c41.chunk.css.map",
     "static/js/2.1eda0dc1.chunk.js.LICENSE.txt": "/webpage/static/js/2.1eda0dc1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/webpage/static/media/logo.6ce24c58.svg"
+    "static/media/logo.6ce24c58.svg": "/webpage/static/media/logo.6ce24c58.svg",
+    "static/media/zonasys_icon.b69b11e2.png": "/webpage/static/media/zonasys_icon.b69b11e2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8059e8cb.js",
     "static/js/2.1eda0dc1.chunk.js",
     "static/css/main.33876c41.chunk.css",
-    "static/js/main.d8f9f05a.chunk.js"
+    "static/js/main.e78a5818.chunk.js"
   ]
 }
